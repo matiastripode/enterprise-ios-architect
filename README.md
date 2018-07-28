@@ -3,9 +3,9 @@ Everything you should know to become an enterprise iOS Architect / Tech Lead
 
 # Table of Contents
 
-- [Swift Programing](#Swift Programing)
-- [iOS Development](#iOS Development)
-- [Clean Code](#Clean Code)
+- [Swift Programing](#Swift-Programing)
+- [iOS Development](#iOS-Development)
+- [Clean Code](#Clean-Code)
 - [SOLID Principles](#SOLID Principles)
 - [MVC, MVVM, MVP](#MVC, MVVM, MVP)
 - [VIPER](#VIPER)
