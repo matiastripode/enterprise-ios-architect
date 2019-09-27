@@ -1,4 +1,4 @@
-# enterprise-ios-architect
+# Enterprise ios Architect
 Everything you should know to become an enterprise iOS Architect / Tech Lead
 
 # Table of Contents
